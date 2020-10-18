@@ -104,9 +104,9 @@ disqusShortname = ""
       url = "blogs/tempus"
 
     [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
-      image = "pic03.jpg"
+      title = "Home"
+     # subtitle = "Lorem Etiam Nullam"
+      image = "Home.jpg"
       url = "blogs/magna"
 
     [[params.tiles.showcase]]
