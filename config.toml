@@ -184,9 +184,9 @@ disqusShortname = ""
     city = "London, NW1 4SA"
     country = "United Kingdom"
 
-  # Footer section
-  # [params.footer]
-   # enable = true
+   Footer section
+   [params.footer]
+    enable = true
     # copyright = "Company Name"
 
     # Uses font awesome icons
