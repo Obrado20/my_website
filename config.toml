@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://philippobradovics.netlify.app/"
+baseURL = "https://philippobradovics.netlify.app/"
 languageCode = "en-us"
 title = "Portfolio Website of Philipp Obradovics"
 theme = "forty"
