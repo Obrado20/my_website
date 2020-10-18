@@ -184,7 +184,7 @@ disqusShortname = ""
     city = "London, NW1 4SA"
     country = "United Kingdom"
 
-   Footer section
+   #Footer section
    [params.footer]
     enable = true
      copyright = "Philipp Obradovics"
