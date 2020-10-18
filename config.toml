@@ -100,7 +100,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Football"
      # subtitle = "Feugiat Amet Tempus"
-      image = "pic02.jpg"
+      image = "Neuberg.jpg"
       url = "blogs/tempus"
 
     [[params.tiles.showcase]]
