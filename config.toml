@@ -94,8 +94,8 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "About me"
      # subtitle = "Ipsum Dolor Sit Amet"
-      image = "LBS.jpg"
-      url = "About me/me"
+      image = "Philipp.jpg"
+      url = "blogs/aliquam"
 
     [[params.tiles.showcase]]
       title = "Football"
