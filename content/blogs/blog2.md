@@ -5,7 +5,7 @@ categories:
 date: "2017-10-31T22:26:09-05:00"
 description: Here you can learn more about my hometown - Kohfidisch
 draft: false
-image: pic09.jpg
+image: Home.jpg
 keywords: ""
 slug: magna
 title: Home
