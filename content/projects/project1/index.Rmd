@@ -1,4 +1,9 @@
 ---
+site: blogdown:::blogdown_site
+---
+
+
+---
 title: "Session 4: Homework 2"
 author: "Group 26"
 date: "`r Sys.Date()`"
