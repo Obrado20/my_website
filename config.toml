@@ -118,7 +118,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Covid-19"
     #  subtitle = "Ipsum Dolor Sit Amet"
-      image = "covid"
+      image = "covid.jpg"
       url = "blogs/five"
 
     [[params.tiles.showcase]]
