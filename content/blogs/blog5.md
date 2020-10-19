@@ -11,19 +11,7 @@ slug: five
 title: Covid-19
 ---
 
----
-title: "Session 4: Homework 2"
-author: "Group 26"
-date: "`r Sys.Date()`"
-output:
-  html_document:
-    theme: flatly
-    highlight: zenburn
-    number_sections: yes
-    toc: yes
-    toc_float: yes
-    code_folding: show
----
+
 
 
 ```{r, setup, include=FALSE}
