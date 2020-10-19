@@ -113,7 +113,7 @@ disqusShortname = ""
       title = "Weather anomalies"
     #  subtitle = "Nisl Sed Aliquam"
       image = "pic04.jpg"
-      url = "projects/project1"
+      url = "blogs/ipsum"
 
     [[params.tiles.showcase]]
       title = "Consequat"
