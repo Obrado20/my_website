@@ -3,7 +3,7 @@ categories:
 - ""
 - ""
 date: "2017-10-31T21:28:43-05:00"
-description: "Here you can see an excerpt of one of our data analytics projects"
+description: "Here you can see an excerpt of one of our data analytics projects where we analysed weather anomalies"
 draft: false
 image: weather.jpg
 keywords: ""

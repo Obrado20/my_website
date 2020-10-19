@@ -3,7 +3,7 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:42:51-05:00"
-# description: The link on the side leads you to a short description of myself.
+description: This project dealt with Covid-19 and how it affected different groups of people.
 draft: false
 image: covid.jpg
 keywords: ""

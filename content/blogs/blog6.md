@@ -3,7 +3,7 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:42:51-05:00"
-# description: The link on the side leads you to a short description of myself.
+description: In this project my group and I analysed Donald Trump's approval ratings over time.
 draft: false
 image: Trump.jpg
 keywords: ""
