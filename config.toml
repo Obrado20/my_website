@@ -51,9 +51,9 @@ disqusShortname = ""
       name = "Blogs"
       url = "blogs"
 
-    [[params.navigation.links]]
-      name = "Generic Blog"
-      url = "projects"
+  #  [[params.navigation.links]]
+   #   name = "Generic Blog"
+    #  url = "projects"
 
   #  [[params.navigation.links]]
    #   name = "Elements"
@@ -112,7 +112,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Weather anomalies"
     #  subtitle = "Nisl Sed Aliquam"
-      image = "pic04.jpg"
+      image = "weather.png"
       url = "blogs/ipsum"
 
     [[params.tiles.showcase]]
